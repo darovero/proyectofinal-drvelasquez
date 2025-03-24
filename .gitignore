@@ -1,0 +1,42 @@
+# ⚡ Ignorar archivos de entorno
+.env
+
+# ⚡ Ignorar dependencias del entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ⚡ Ignorar archivos de bases de datos locales y caché
+*.sqlite3
+*.db
+instance/
+migrations/
+
+# ⚡ Ignorar configuraciones de IDE y editores de código
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ⚡ Ignorar archivos de logs
+*.log
+logs/
+
+# ⚡ Ignorar archivos de compilación
+*.egg-info/
+dist/
+build/
+
+# ⚡ Ignorar dependencias descargadas
+pip-wheel-metadata/
+
+# ⚡ Ignorar archivos de imágenes generadas
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# ⚡ Ignorar archivos innecesarios de Git
+.DS_Store
