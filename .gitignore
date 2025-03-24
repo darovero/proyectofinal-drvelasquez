@@ -1,8 +1,8 @@
-# ⚡ Ignorar archivos de entorno
-.venv
-
-# ⚡ Ignorar dependencias del entorno virtual
+# ⚡ Ignorar entornos virtuales
+.venv/
 venv/
+
+# ⚡ Ignorar archivos compilados de Python
 __pycache__/
 *.pyc
 *.pyo
