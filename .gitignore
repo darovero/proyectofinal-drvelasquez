@@ -1,5 +1,5 @@
 # ⚡ Ignorar archivos de entorno
-.env
+.venv
 
 # ⚡ Ignorar dependencias del entorno virtual
 venv/
